@@ -1,2 +1,11 @@
-# Ecosystem-Simulation-Java
+#Ecosystem Simulation (Java)
 
+Αυτό είναι ένα simulation οικοσυστήματος που αναπτύχθηκε το 2015 στα πλαίσια του εργαστηρίου Java στο CEID.
+
+Χαρακτηριστικά:
+- Αντικειμενοστρεφής σχεδιασμός (Inheritance, Polymorphism).
+- Γραφικό περιβάλλον με χρήση Java Swing.
+- Logic επιβίωσης (stamina, reproduction, hunger) για διαφορετικά είδη ζώων.
+
+Credits
+Αναπτύχθηκε από τον Κλαρκ Αβράμι σε συνεργασία με τους Ι. Στεφάνου και Ι. Λυκούρα.
